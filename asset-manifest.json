@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.65c45dac.css",
+    "main.js": "/react-gh-pages/static/js/main.231ade3f.js",
+    "static/js/787.a5cad257.chunk.js": "/react-gh-pages/static/js/787.a5cad257.chunk.js",
+    "static/media/todo-image-2.png": "/react-gh-pages/static/media/todo-image-2.7fc08a43a7a2767963e7.png",
+    "index.html": "/react-gh-pages/index.html",
+    "main.65c45dac.css.map": "/react-gh-pages/static/css/main.65c45dac.css.map",
+    "main.231ade3f.js.map": "/react-gh-pages/static/js/main.231ade3f.js.map",
+    "787.a5cad257.chunk.js.map": "/react-gh-pages/static/js/787.a5cad257.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65c45dac.css",
+    "static/js/main.231ade3f.js"
+  ]
+}
